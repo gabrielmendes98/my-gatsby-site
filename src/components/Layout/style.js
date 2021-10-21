@@ -24,3 +24,10 @@ export const NavLinkItem = styled.li`
 export const Link = styled(GatsbyLink)`
   color: black;
 `;
+
+export const Header = styled.header`
+  font-size: 3rem;
+  color: gray;
+  font-weight: 700;
+  margin: 3rem 0;
+`;
